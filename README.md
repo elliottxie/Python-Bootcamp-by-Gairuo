@@ -9,14 +9,14 @@
 
 ## 课程目录
 ### Day1
-1. [Pandas 将性别男女用0和1表示](/Day1_01.ipynb)
-2. [Pandas 将带有万和亿的数字转为整型](/Day1_02.ipynb)
-3. [Pandas 筛选查询每月1日的数据](/Day1_03.ipynb)
+1. [Pandas 将性别男女用0和1表示](/Day1/Day1_01.ipynb)
+2. [Pandas 将带有万和亿的数字转为整型](/Day1/Day1_02.ipynb)
+3. [Pandas 筛选查询每月1日的数据](/Day1/Day1_03.ipynb)
 
 ### Day2
-1. [Pandas 将性别信息转为哑变量](/Day2_01.ipynb)
-2. [Pandas 计算平均打卡上班时间](/Day2_02.ipynb)
-3. [Pandas DataFrame 数据转为一行](/Day2_03.ipynb)
+1. [Pandas 将性别信息转为哑变量](/Day2/Day2_01.ipynb)
+2. [Pandas 计算平均打卡上班时间](/Day2/Day2_02.ipynb)
+3. [Pandas DataFrame 数据转为一行](/Day2/Day2_03.ipynb)
 
 ### Day3
 待更新
