@@ -19,4 +19,6 @@
 3. [Pandas DataFrame 数据转为一行](/Day2/Day2_03.ipynb)
 
 ### Day3
-待更新
+1. [Pandas 去掉最高分和最低分的平均值](/Day3/Day3_01.ipynb)
+2. [Pandas 获取 DataFrame 所有不重复值](/Day3/Day3_02.ipynb)
+3. [Pandas 分组按列统计数量](/Day3/Day3_03.ipynb)
